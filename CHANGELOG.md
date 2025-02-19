@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-14)
+## Unreleased (2025-02-19)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`333db47`](https://github.com/stdlib-js/stdlib/commit/333db47fbaf71f768a5d27c2a29b11656093f561) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`b00d9f1`](https://github.com/stdlib-js/stdlib/commit/b00d9f1064701187f48a05b9753e74ae835b0726) - **docs:** fix typing error in `repl.txt` of `stats/base/*` [(#4750)](https://github.com/stdlib-js/stdlib/pull/4750) _(by Aayush Khanna)_
 -   [`7e63aad`](https://github.com/stdlib-js/stdlib/commit/7e63aad8c0b42330b0933973bddea8d1c5e84862) - **fix:** wrap function calls in `API_SUFFIX` in native addons [(#4646)](https://github.com/stdlib-js/stdlib/pull/4646) _(by Aayush Khanna)_
 -   [`bba1675`](https://github.com/stdlib-js/stdlib/commit/bba16758e10a6e2b20cf43812faaeecd366f0b9a) - **feat:** add C ndarray interface and refactor implementation for `stats/base/smin` [(#4282)](https://github.com/stdlib-js/stdlib/pull/4282) _(by Aayush Khanna)_
